@@ -24,7 +24,7 @@ Pour ce projet, nous avons choisi de travailler exclusivement sur la région **A
 ## 📐 Maquette
 
 La maquette du rapport Power BI a été réalisée sur Canva et est accessible via le lien :
-...
+https://www.canva.com/design/DAG-NKM93Zc/TeY_pqVKktsiXEcBeaLCUg/edit?utm_content=DAG-NKM93Zc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## 💻 Version en ligne
 
