@@ -16,8 +16,8 @@ Pour ce projet, nous avons choisi de travailler exclusivement sur la région **A
 
 * `enedis_powerbi.pbix` — Rapport Power BI
 *  **Données** :
-    - `dpe_existant_auvergne` — Données sur les consommations énergetiques des logements existants en Auvergne–Rhône-Alpes
-    - `dpe_neuf_auvergne` — Données sur les consommations énergetiques des logements neufs en Auvergne–Rhône-Alpes
+    - `dpe_existant_auvergne` — Données sur les consommations énergetiques des logements existants
+    - `dpe_neuf_auvergne` — Données sur les consommations énergetiques des logements neufs
 *  **Documentations** :
     - `documentation_technique.pdf` — Schéma du modèle, règles RLS, mesures clés et analyse des performances
     - `documentation_fonctionnelle.pdf` — Visualisations principales, navigation, filtres et usages de l’application
