@@ -14,12 +14,11 @@ Pour ce projet, nous avons choisi de travailler exclusivement sur la région **A
 
 ## 🗂️ Structure du repository 
 
-* `enedis_powerbi.pbix` — Rapport Power BI
 *  **Documentations** :
     - `documentation_technique.pdf` — Schéma du modèle, règles RLS, mesures clés et analyse des performances
     - `documentation_fonctionnelle.pdf` — Visualisations principales, navigation, filtres et usages de l’application
 * `README.md` — Présentation du projet
-  
+* `enedis_powerbi.pbix` — Rapport Power BI  
 
 ## 📐 Maquette
 
