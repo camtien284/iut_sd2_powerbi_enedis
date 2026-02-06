@@ -44,4 +44,4 @@ Projet réalisé par :
 
 * Thi Cam Tien PHAM
 * Manuellia RAKOTONDRAVELO
-* Margo WURRY
+* Margot WURRY
