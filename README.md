@@ -32,6 +32,12 @@ L'application Power BI est disponible ici :
 
 https://app.powerbi.com/links/GlOro0MP6E?ctid=a51a6642-5911-4306-a13c-f4731ab9c63f&pbi_source=linkShare
 
+
+## ​⚙️​ Diagnostic de l'analyseur de performance
+
+L’analyse des performances de l’application a été réalisée à l’aide de l’outil Analyseur de performances de Power BI.
+Les résultats détaillés de cette analyse sont disponibles dans le fichier `analyseur_peerformances.json` présent dans le repository
+
 ## 🎥 Démonstration
 
 Une démonstration vidéo a été mise en ligne sur YouTube.  
