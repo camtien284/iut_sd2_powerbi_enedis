@@ -17,6 +17,7 @@ Pour ce projet, nous avons choisi de travailler exclusivement sur la région **A
 *  **Documentations** :
     - `documentation_technique.pdf` — Schéma du modèle, règles RLS, mesures clés et analyse des performances
     - `documentation_fonctionnelle.pdf` — Visualisations principales, navigation, filtres et usages de l’application
+* `analyseur_performances.json` — Résultats de l'analyseur de performances sur Power Bi
 * `README.md` — Présentation du projet
 * `enedis_powerbi.pbix` — Rapport Power BI  
 
@@ -36,7 +37,7 @@ https://app.powerbi.com/links/GlOro0MP6E?ctid=a51a6642-5911-4306-a13c-f4731ab9c6
 ## ​⚙️​ Diagnostic de l'analyseur de performance
 
 L’analyse des performances de l’application a été réalisée à l’aide de l’outil Analyseur de performances de Power BI.
-Les résultats détaillés de cette analyse sont disponibles dans le fichier `analyseur_peerformances.json` présent dans le repository
+Les résultats détaillés de cette analyse sont disponibles dans le fichier `analyseur_performances.json` présent dans le repository
 
 ## 🎥 Démonstration
 
