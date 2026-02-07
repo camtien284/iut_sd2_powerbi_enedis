@@ -29,7 +29,8 @@ https://www.canva.com/design/DAG-NKM93Zc/Ntf0uxgzoTIMwdJqv9wvHw/view?utm_content
 ## 💻 Version en ligne
 
 L'application Power BI est disponible ici :
-...
+
+https://app.powerbi.com/groups/me/reports/6f257e3c-3878-4cc0-944c-39d27ab0c0ad?ctid=a51a6642-5911-4306-a13c-f4731ab9c63f&pbi_source=linkShare
 
 ## 🎥 Démonstration
 
