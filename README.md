@@ -35,7 +35,7 @@ https://app.powerbi.com/groups/me/reports/6f257e3c-3878-4cc0-944c-39d27ab0c0ad?c
 ## 🎥 Démonstration
 
 Une démonstration vidéo a été mise en ligne sur YouTube.  
-Lien de la vidéo : ...
+Lien de la vidéo : https://www.youtube.com/watch?v=XvaqaLP2l_c
 
 
 ## 👥 Équipe
